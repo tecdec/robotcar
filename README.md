@@ -9,5 +9,6 @@ L298N H Bridge Motor Driver
 4xwheels
 1 perspex chassis
 1 servo motor for steering
+1HC-SR04 distance sensor
 
 
